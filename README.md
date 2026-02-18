@@ -1,2 +1,2 @@
 # PetiteDB
-Relational DB implementation 
+Relational DB implementation with ACID properties and crash recovery 
